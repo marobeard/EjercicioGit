@@ -1,0 +1,9 @@
+git init----------------------------------->Iniciar git
+git add .---------------------------------->Añadir git
+git commit -m "Hola" ---------------------->Añadir comentario
+git log ----------------------------------->Muestra los comentarios
+git checkout -- index.php------------------>Deshacer lo anterior
+git diff----------------------------------->muestra las diferencias en el index.php
+git branch--------------------------------->Muestra las ramas
+git branch hola---------------------------->Añade una nueva rama
+git status--------------------------------->Muestra los cambios
